@@ -3,4 +3,8 @@ Flask==1.0.2
 matplotlib==3.0.2
 pandas==0.23.4
 numpy==1.17.3
+<<<<<<< HEAD
 scikit_learn==0.21.3
+=======
+scikit_learn==0.21.3
+>>>>>>> ac12b4c9d49263bea5bb13ac1f7c815172e8e76a
